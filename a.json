@@ -3,11 +3,11 @@
     {
       "name": "Grilled Chicken Breast",
       "description": "Skinless grilled chicken breast, high in protein",
-      "protein": 31,
+      "protein": 31.0,
       "id": 1,
       "calories": 165,
       "price": 5.99,
-      "carbs": 0,
+      "carbs": 0.0,
       "imageURL": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
     },
     {
@@ -17,7 +17,7 @@
       "id": 2,
       "calories": 130,
       "price": 1.99,
-      "carbs": 28,
+      "carbs": 28.0,
       "imageURL": "https://images.unsplash.com/photo-1562967916-eb82221dfb33"
     },
     {
@@ -27,7 +27,7 @@
       "id": 3,
       "calories": 52,
       "price": 0.99,
-      "carbs": 14,
+      "carbs": 14.0,
       "imageURL": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     },
     {
@@ -37,7 +37,7 @@
       "id": 4,
       "calories": 89,
       "price": 0.59,
-      "carbs": 23,
+      "carbs": 23.0,
       "imageURL": "https://images.unsplash.com/photo-1574226516831-e1dff420e38e"
     },
     {
