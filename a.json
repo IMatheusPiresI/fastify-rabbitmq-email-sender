@@ -1,0 +1,54 @@
+{
+  "request": [
+    {
+      "name": "Grilled Chicken Breast",
+      "description": "Skinless grilled chicken breast, high in protein",
+      "protein": 31,
+      "id": 1,
+      "calories": 165,
+      "price": 5.99,
+      "carbs": 0,
+      "imageURL": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+    },
+    {
+      "name": "White Rice (cooked)",
+      "description": "Cooked white rice, staple source of carbs",
+      "protein": 2.7,
+      "id": 2,
+      "calories": 130,
+      "price": 1.99,
+      "carbs": 28,
+      "imageURL": "https://images.unsplash.com/photo-1562967916-eb82221dfb33"
+    },
+    {
+      "name": "Apple",
+      "description": "Fresh raw apple, high in fiber",
+      "protein": 0.3,
+      "id": 3,
+      "calories": 52,
+      "price": 0.99,
+      "carbs": 14,
+      "imageURL": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    },
+    {
+      "name": "Banana",
+      "description": "Ripe banana, great source of potassium and carbs",
+      "protein": 1.1,
+      "id": 4,
+      "calories": 89,
+      "price": 0.59,
+      "carbs": 23,
+      "imageURL": "https://images.unsplash.com/photo-1574226516831-e1dff420e38e"
+    },
+    {
+      "name": "Boiled Egg",
+      "description": "Hard boiled whole egg, rich in protein and healthy fats",
+      "protein": 6.3,
+      "id": 5,
+      "calories": 78,
+      "price": 0.3,
+      "carbs": 1.1,
+      "imageURL": "https://images.unsplash.com/photo-1558021212-51b6f2dc3b8e"
+    }
+  ]
+}
