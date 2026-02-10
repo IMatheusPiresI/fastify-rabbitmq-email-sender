@@ -18,7 +18,7 @@
       "calories": 130,
       "price": 1.99,
       "carbs": 28.0,
-      "imageURL": "https://images.unsplash.com/photo-1562967916-eb82221dfb33"
+      "imageURL": "https://www.lemonblossoms.com/wp-content/uploads/2019/11/How-To-Cook-White-Rice-6-500x500.jpg"
     },
     {
       "name": "Apple",
@@ -38,7 +38,7 @@
       "calories": 89,
       "price": 0.59,
       "carbs": 23.0,
-      "imageURL": "https://images.unsplash.com/photo-1574226516831-e1dff420e38e"
+      "imageURL": "https://media.istockphoto.com/id/1291262112/pt/foto/banana.jpg?s=612x612&w=0&k=20&c=MMisuDEjqQ1C2UkO6AfhEFNgOG3X6RG6Q2Ruhz6WtVQ="
     },
     {
       "name": "Boiled Egg",
@@ -48,7 +48,7 @@
       "calories": 78,
       "price": 0.3,
       "carbs": 1.1,
-      "imageURL": "https://images.unsplash.com/photo-1558021212-51b6f2dc3b8e"
+      "imageURL": "https://www.allrecipes.com/thmb/cy-op5BhgNoMEZXixv7Y7nkNTBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237562-pressure-cooker-hard-boiled-eggs-DDMFS-Beauty-4x3-0fcf127e464040aa943957a13bcfa339.jpg"
     }
   ]
 }
